@@ -19,6 +19,7 @@ public class Cat {
             System.out.println("Еды в тарелке меньше, чем требуется, кот " + this.name + " голодный");
         }
     }
+
     public void printSatiety() {
         if (this.satiety == true) {
             System.out.println("Кот " + this.name + " сыт");

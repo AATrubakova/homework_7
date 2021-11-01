@@ -19,7 +19,7 @@ public class Plate {
     }
 
     public void addEatInPlate(int food) {
-            this.food += food;
+        this.food += food;
 
     }
 
